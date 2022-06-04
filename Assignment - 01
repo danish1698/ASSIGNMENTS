@@ -1,0 +1,75 @@
+1.   In the below elements which of them are values or an      expression? eg:- values can be
+     integer or string and expressions will be mathematical operators.
+
+     *       - expression
+     'hello' - vlaues
+     -87.8   - values
+     -       - expression
+     /         - expression
+     +       - expression
+
+2.   What is the difference between string and variable?
+Ans. string is a sequence of characters enclosed in quotes. 
+     eg - 'danish' , "chiransh"
+   
+     whereas variable is a name given to a memory location in a program.
+     eg - a=30 , b="Danish"
+     
+3.   Describe three different data types.
+Ans. There are the following data types:
+     1.Integer
+     2.Floating point numbers
+     3.Strings
+     4.Booleans
+     5.None
+     
+     Integers - itegers are a whole number, positive or          negative, of unlimited length.
+      eg - a = 1, b = 2
+  
+     Floating point numbers - floating point numbers are positive or negative numbers containing one or more decimals.
+     eg - a= 2.3 , b= 2.7
+     
+     Strings -  string is a sequence of characters enclosed in quotes. 
+     eg - 'danish' , "chiransh"
+     
+4.   What is an expression made up of? What do all expressions do?
+Ans. an expression is made up of identifiers, operators , constants and variables.
+     expression are representations of value.
+
+5.   This assignment statements, like spam = 10. What is the difference between an expression and a statement?
+Ans. an expression returns a value which can be printed on the screen .
+     on the other hand, a statement is a line of code that will not print any value onto the screen 
+
+6.   After running the following code, what does the variable bacon contain?
+     bacon = 22
+     bacon + 1
+Ans. It will return 23 
+ 
+7.   What should the values of the following two terms be?
+     'spam' + 'spamspam'
+     'spam'*3
+Ans. They will have the same value 'spamspamspam'.
+
+8.   Why is eggs a valid variable name while 100 is invalid?
+Ans. 100 is invalid because we cannot start variable name as integer it should start with alphabets like danish,dan565. 
+
+9.   What three functions can be used to get the integer, floating-point number, or string version of a value?
+Ans. integer - int()
+     float   - float()
+     string  - input()
+
+10.  Why does this expression cause an error? How can you fix it?
+     'I have eaten'  + 99 +  'burritos.'
+Ans. We can add only same data type that's why this expression is causing error since we'r adding integer to string.
+     correct expression - 'I have eaten'  + '99' +  'burritos.'
+
+
+
+
+
+
+
+
+
+
+
